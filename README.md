@@ -1,7 +1,7 @@
 # Map-of-where-I've-been
 A simple Leaflet map template for new users to fork their own copy, edit, and host on GitHub Pages
 
-## Link to live map (replace with link to your site) "Coming soon"
+https://matiasl64.github.io/Places-I-have-been/
 https://handsondataviz.github.io/leaflet-map-simple/
 
 ## Create your own
