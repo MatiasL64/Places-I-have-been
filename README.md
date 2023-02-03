@@ -2,6 +2,7 @@
 A simple Leaflet map template for new users to fork their own copy, edit, and host on GitHub Pages
 
 https://matiasl64.github.io/Places-I-have-been/
+
 https://handsondataviz.github.io/leaflet-map-simple/
 
 ## Create your own
