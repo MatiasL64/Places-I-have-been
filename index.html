@@ -27,7 +27,7 @@
 
   /* Set up the initial map center and zoom level */
   var map = L.map('map', {
-    center: [41.77, -72.69], // EDIT coordinates to re-center map
+    center: [43.77039262702164, 11.262938567152297], // coordinates of Florence, Italy
     zoom: 12,  // EDIT from 1 (zoomed out) to 18 (zoomed in)
     scrollWheelZoom: false
   });
@@ -41,7 +41,7 @@
   }).addTo(map);
 
   /* Display a point marker with pop-up text */
-  L.marker([41.77, -72.69]).addTo(map) // EDIT marker coordinates
+  L.marker([43.77039262702164, 11.262938567152297).addTo(map) // This is the coordinates of Florence, Italy
   .bindPopup("Insert pop-up text here"); // EDIT pop-up text message
 
   </script>
